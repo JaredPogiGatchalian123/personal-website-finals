@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^4.0.3",
+    "@supabase/supabase-js": "^2.97.0"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "^11.1.14",
+    "@types/node": "^25.3.0"
+  }
+}
